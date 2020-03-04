@@ -13,7 +13,7 @@ VRTRIX IMU modules includes 9-axis sensors (gyro, accel & mag), where rotation q
 
 This repository contains the VRTRIX Glove Client Installer, which is useful for hardware driver installation, hardware port auto configuration, data gloves pairing to dongle and demo testing. 
 
-Please note that this client installer is **mandatory** before use any other SDKs (including Unity3D, UE4, MotionBuilder and C++).
+Please note that this client installer (or standalone driver installer) is **mandatory** before use any other SDKs (including Unity3D, UE4, MotionBuilder and C++). Please Check the installation and operation method [here][here]
 
 Following are the links to SDKs for different platforms:
 
@@ -31,11 +31,12 @@ Following are the links to SDKs for different platforms:
 
 ## Support
 
-- VRTRIXGlove_Installer supports Window 10 OS**
+- VRTRIXGlove_Installer supports Windows 10 OS**
 - If you need any techincal support, please contact info@vrtrix.com
 
 [chinese]: https://github.com/VRTRIX/VRTRIXGlove_Installer/blob/master/README_CN.md "chinese"
 [devsite]: https://github.com/VRTRIX/VRTRIXGlove_Installer/releases "VRTRIX Glove Installer Release site"
+[here]: https://github.com/VRTRIX/VRTRIXGlove_Installer/blob/master/docs/%E5%8C%97%E4%BA%AC%E6%97%A0%E8%BF%9C%E5%BC%97%E5%B1%8A%E6%95%B0%E6%8D%AE%E6%89%8B%E5%A5%97(VRTRIX%20Data%20Glove)%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C.pdf
 [Unity3D]: https://github.com/VRTRIX/VRTRIXGlove_Unity3D_SDK
 [Unreal Engine 4]: https://github.com/VRTRIX/VRTRIXGlove_UE4_SDK
 [MotionBuilder]: https://github.com/VRTRIX/VRTRIXGlove_MotionBuilder_Plugin

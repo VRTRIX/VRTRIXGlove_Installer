@@ -11,7 +11,7 @@ VRTRIX 惯性传感器模块采用九轴传感器（3轴陀螺仪，3轴加速�
 
  该软件为VRTRIX数据手套客户端配置软件，集成了硬件驱动，端口自动配置，配对还有demo测试的功能。
  
- 请注意：该软件在运行任何平台SDK之前**必须**首先安装，以保证硬件驱动正确。
+ 请注意：该软件(或者独立驱动安装包)在运行任何平台SDK之前**必须**首先安装，以保证硬件驱动正确。具体的操作手册可在[这里][here]查看。
  
  以下为VRTRIX数据手套目前支持的平台SDK链接：
  
@@ -29,10 +29,11 @@ VRTRIX 惯性传感器模块采用九轴传感器（3轴陀螺仪，3轴加速�
 
 ## 支持
 
-- VRTRIXGlove_Installer 支持 Window 10 OS**
+- VRTRIXGlove_Installer 支持 Windows 10 OS**
 - 如果你需要任何额外的技术帮助，请联系info@vrtrix.com。
 
 [devsite]: https://github.com/VRTRIX/VRTRIXGlove_Installer/releases "VRTRIX Glove Installer Release site"
+[here]: https://github.com/VRTRIX/VRTRIXGlove_Installer/blob/master/docs/%E5%8C%97%E4%BA%AC%E6%97%A0%E8%BF%9C%E5%BC%97%E5%B1%8A%E6%95%B0%E6%8D%AE%E6%89%8B%E5%A5%97(VRTRIX%20Data%20Glove)%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C.pdf
 [Unity3D]: https://github.com/VRTRIX/VRTRIXGlove_Unity3D_SDK
 [Unreal Engine 4]: https://github.com/VRTRIX/VRTRIXGlove_UE4_SDK
 [MotionBuilder]: https://github.com/VRTRIX/VRTRIXGlove_MotionBuilder_Plugin
